@@ -71,5 +71,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - Himansu Sekhar Lenka
-Project Link: [https://github.com/Himansu173/limeroad_clone](https://github.com/Himansu173/limeroad_clone.com.git)
+- Your Name - Himansu Sekhar Lenka
+- Project Link: [https://github.com/Himansu173/limeroad_clone](https://github.com/Himansu173/limeroad_clone.com.git)
