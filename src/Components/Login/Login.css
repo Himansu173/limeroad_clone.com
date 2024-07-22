@@ -1,0 +1,30 @@
+#phone {
+    background-color: transparent;
+    width: 100%;
+    outline: none;
+    border-bottom: 2px solid black;
+    color: black;
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+}
+
+#phone:focus {
+    outline: none;
+    border-color: lightgreen;
+}
+
+#next {
+    width: 100%;
+    margin-top: 14%;
+    background-color: #d3145a;
+    height: 50px;
+    font-weight: 600;
+    color: aliceblue;
+}
+
+#err {
+    color: red;
+    text-align: right;
+    font-size: 0.7rem;
+    font-weight: 600;
+}
