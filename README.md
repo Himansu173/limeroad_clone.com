@@ -42,11 +42,11 @@ To get a local copy up and running, follow these simple steps:
    ```sh
    npm run dev
    ```   
-1. Start the json server
+2. Start the json server
    ```sh
    npx json-server db.json
    ```   
-2. Open your browser and navigate to `http://localhost:5173`
+3. Open your browser and navigate to `http://localhost:5173`
 
 ## Technologies Used
 
@@ -71,5 +71,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- Your Name - Himansu Sekhar Lenka
+- Name - Himansu Sekhar Lenka
+- Mail - himansu.lenka173@gmail.com
 - Project Link: [https://github.com/Himansu173/limeroad_clone](https://github.com/Himansu173/limeroad_clone.com.git)
