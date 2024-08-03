@@ -83,10 +83,10 @@ const Navbar = () => {
                                                 [
                                                     "Bra",
                                                     "Panties",
-                                                    "Lingerie Sets",
+                                                    "Lingerie Sets ",
                                                     "Sleepwear & Loungewear",
                                                     "Shape Wear",
-                                                    "Camisoles & Thermals"
+                                                    "Camisoles & THermals"
                                                 ].map((ele) => (
                                                     <li key={ele}>
                                                         <a href="#">{ele}</a>
