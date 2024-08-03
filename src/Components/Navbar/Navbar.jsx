@@ -398,10 +398,10 @@ const Navbar = () => {
                                                 [
                                                     "Dresses & Frocks",
                                                     "Tees & Tops",
-                                                    "Bottom Wear",
+                                                    "Bottom Wear ",
                                                     "Ethnic Wear",
-                                                    "Sweater & Cardigans",
-                                                    "Coats & Jackets",
+                                                    "Sweater & Cardigans ",
+                                                    "COats & Jackets",
                                                     "Twin Sets & Jump Suits",
                                                     "Innerwear & Nightwear"
                                                 ].map((ele) => (
