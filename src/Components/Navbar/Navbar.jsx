@@ -106,9 +106,9 @@ const Navbar = () => {
                                                     "Aurelia",
                                                     "Alcis",
                                                     "Shaily",
-                                                    "Cottinfab",
+                                                    "Cottinfab ",
                                                     "Ksut",
-                                                    "Oxolloxo",
+                                                    "OXolloxo",
                                                     "Trendif",
                                                     "Pluss"
                                                 ].map((ele) => (

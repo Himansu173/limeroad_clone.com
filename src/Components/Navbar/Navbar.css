@@ -58,7 +58,7 @@ nav ul li a:hover{
     opacity: 0;
     visibility: hidden;
     width: 100%;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px  4px;
     display: flex;
     flex-wrap: wrap;
     z-index: 50;
@@ -241,4 +241,6 @@ nav ul li:hover .mega-menu {
 
 .order-board span:hover {
     color: rgb(75, 73, 73);
+
+    
 }
