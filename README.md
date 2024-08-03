@@ -11,6 +11,7 @@ This repository contains a clone of the Limeroad e-commerce website built using 
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact Me](#contact)
 
 ## Features
 
